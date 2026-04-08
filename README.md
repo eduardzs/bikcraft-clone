@@ -1,6 +1,42 @@
-# Bikcraft - Clone
-Bem-vindo ao meu terceiro projeto, desenvolvido durante o Curso HTML e CSS para Iniciantes da Origamid. Esta iniciativa representa uma aplicação prática dos conceitos fundamentais de HTML5 e CSS3, evidenciando os primeiros passos da minha jornada na construção de páginas web.
+# Bikcraft - Website Clone
 
-<a href="https://bikcraft-beige.vercel.app/">Link do Projeto</a>
+🚀 Responsive website clone built with HTML and CSS, focusing on layout structure and modern web design.
 
-<img src="./assets/img/bikcraft.png" alt="Imagem do Projeto">
+## 🔗 Live Demo
+👉 https://bikcraft-beige.vercel.app/
+
+## 📌 About the Project
+
+This project is a front-end implementation of a website layout, developed to practice structure, styling, and responsive design.
+
+It focuses on:
+- Page layout and section organization  
+- Responsive design techniques  
+- Visual hierarchy and UI consistency  
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+
+## 📱 Features
+
+- Fully responsive layout  
+- Multi-section website structure  
+- Clean and modern UI  
+- Semantic and organized code  
+
+## 📷 Preview
+
+![Project Preview](./assets/img/bikcraft.png)
+
+## 📚 What I Learned
+
+- Building structured web pages  
+- Applying responsive design concepts  
+- Improving layout organization and spacing  
+- Replicating real-world website designs  
+
+---
+
+💡 Project focused on recreating real-world layouts and improving front-end fundamentals.
